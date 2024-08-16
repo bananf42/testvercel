@@ -18,7 +18,7 @@ const Faq = () => {
     {
       title: "What features does Zuvlo have compared to other platforms?",
       description:
-        "Besides the basic functions of a fan-site, where you can sell subscriptions and PPV content, we also have features like - creating your own physical items store, creating your own clip store, having paid video calls with your fans, a "For you" page, and a ton more...",
+        "Besides the basic functions of a fan-site, where you can sell subscriptions and PPV content, we also have features like - creating your own physical items store, creating your own clip store, having paid video calls with your fans, a 'For you' page, and a ton more...",
     },
     {
       title: "Do Zuvlo offer chargeback protection?",
